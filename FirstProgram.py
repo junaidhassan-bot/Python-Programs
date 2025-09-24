@@ -5,9 +5,9 @@
 #print("Sum of Two numbers are : ",num1+numb2)
 #-------------------------------------------------------
 #2.	Multiply two numbers entered by the user.
-#num1=int(input("Enter First number :"))
-#num2=int(input("Enter second number :"))
-#print("Multiplication of Two numbers are : ",num1*num2)
+num1=int(input("Enter First number :"))
+num2=int(input("Enter second number :"))
+print("Multiplication of Two numbers are : ",num1*num2)
 #--------------------------------------------------------------
 #3.	Calculate the square of a number using input().
 #num=int(input("Enter number : "))
